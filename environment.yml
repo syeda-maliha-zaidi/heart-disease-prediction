@@ -1,0 +1,17 @@
+name: heart-disease-algorithm
+channels:
+  - default
+dependencies:
+  - scipy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - jupyter
+  - ipython
+  - python
+  - numpy
+  - pip
+  - ipywidgets
+  - seaborn
+  - voila
+  - sklearn
