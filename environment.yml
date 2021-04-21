@@ -6,7 +6,6 @@ dependencies:
   - scipy
   - matplotlib
   - pandas
-  - qgrid
   - scikit-learn
   - jupyter
   - python
