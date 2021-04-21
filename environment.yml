@@ -1,17 +1,16 @@
 name: heart-disease-algorithm
 channels:
+  - conda-forge
   - default
 dependencies:
   - scipy
   - matplotlib
   - pandas
+  - qgrid
   - scikit-learn
   - jupyter
-  - ipython
   - python
   - numpy
-  - pip
   - ipywidgets
   - seaborn
   - voila
-  - scikit-learn
